@@ -1,6 +1,6 @@
 # expurgar
 
-![](https://github.com/martibarri/expurgar/blob/main/expurgar.png?raw=true)
+![](https://github.com/martibarri/expurgar/blob/main/img/expurgar.png?raw=true)
 
 Simple script that helps removing junk bytes included in malware binaries.
 It's a well-known technique used to avoid ending up in a sandbox analysis.
@@ -14,10 +14,10 @@ usage: expurgar.py [-h] -f FILE [-c CHAIN]
 
 ## test example
 
-![](https://github.com/martibarri/expurgar/blob/main/example_test.png?raw=true)
+![](https://github.com/martibarri/expurgar/blob/main/img/example_test.png?raw=true)
 
 ## malware example
 
 Real malware sample with different bundled files and with multiple layers of obfuscation.
 
-![](https://github.com/martibarri/expurgar/blob/main/example_malware.png?raw=true)
+![](https://github.com/martibarri/expurgar/blob/main/img/example_malware.png?raw=true)
